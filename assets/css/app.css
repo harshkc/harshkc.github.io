@@ -713,6 +713,11 @@ section {
     }
 }
 
+.workxp #checkIcon {
+    font-size: x-large;
+    color: #448aff;
+}
+
 /* Resume Button */
 
 #resumebtn {
